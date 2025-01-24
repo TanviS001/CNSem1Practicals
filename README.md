@@ -1,2 +1,2 @@
 # CN Practice Problems
-DateServer connects to the DateClient.
+Connecting the DateServer to a DateClient.
